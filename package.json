@@ -1,7 +1,7 @@
 {
   "name": "webtoons",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://haanyaj.github.io/webtoons",
   "dependencies": {
     "@emotion/react": "^11.13.3",
